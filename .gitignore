@@ -1,0 +1,10 @@
+.cache/
+data/
+India_runs_data_and_ai_challenge/
+models/
+outputs/
+__pycache__/
+.vscode/
+*.parquet
+*.csv
+*.gguf
